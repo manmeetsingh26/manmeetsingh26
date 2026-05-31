@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Manmeet Singh 👋
 
-<!--
-**manmeetsingh26/manmeetsingh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Chandigarh University
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- Python
+- Data Structures & Algorithms
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested In:
+- Software Development
+- Artificial Intelligence
+- Data Science
+
+📚 Goal:
+To pursue higher studies in Computer Science and build impactful technology solutions.
+
+
