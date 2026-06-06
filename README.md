@@ -1,78 +1,108 @@
 # Hi, I'm Manmeet Singh 👋
 
-🎓 BCA Student at Chandigarh University
+🎓 Bachelor of Computer Applications (BCA) Student at Chandigarh University
 
-💻 Passionate about Computer Science, Software Development, and Problem Solving.
+💻 Aspiring Software Developer passionate about building practical projects, strengthening problem-solving skills, and continuously learning new technologies.
+
+🚀 Currently focused on Data Structures & Algorithms, Software Development, and Web Development.
 
 ---
 
-## 🚀 Current Focus
+## 👨‍💻 About Me
+
+I am a Computer Science enthusiast with a strong interest in software development and problem solving. I enjoy building projects, exploring new technologies, and applying programming concepts to real-world problems.
+
+Currently, I am working on improving my programming skills through project development, GitHub contributions, coding practice, and continuous learning.
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Expense Tracker
+A C++ based expense management application developed to record expenses, categorize spending, maintain expense history, and store records using file handling concepts.
+
+### 🎓 Student Management System
+A C++ application designed to manage student records efficiently. Features include adding students, viewing records, and searching students by roll number, with future enhancements such as attendance and marks management.
+
+### 🌐 Portfolio Website
+A personal portfolio website built using HTML, CSS, and JavaScript to showcase projects, technical skills, and learning progress. Deployed using GitHub Pages.
+
+---
+
+## 📚 Current Learning Focus
 
 - Data Structures & Algorithms
+- C++ Programming
 - Python Programming
+- Web Development
+- Object-Oriented Programming
+- Git & GitHub
 - Problem Solving
-- Software Development
-- Building Real-World Projects
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
-### Languages
+### Programming Languages
 - C++
-- Python (Learning)
+- Python
+- JavaScript (Basic)
+
+### Web Technologies
 - HTML
 - CSS
-- JavaScript (Basic)
 
 ### Tools & Platforms
 - Git
 - GitHub
 - VS Code
 
-### Databases
+### Database
 - MySQL
 
----
-
-## 📂 Featured Repositories
-
-### 📘 DSA Practice
-Implementation of searching and sorting algorithms, problem-solving exercises, and DSA concepts.
-
-### 🐍 Python Practice
-Python learning journey including beginner programs and future mini-projects.
-
-### 💼 Projects Portfolio
-Collection of personal projects including Expense Tracker and future development projects.
-
----
-
-## 🎯 2026 Goals
-
-- Solve 50+ LeetCode Problems
-- Learn Python Programming
-- Build Real-World Projects
-- Strengthen GitHub Profile
-- Prepare for Higher Studies in Computer Science
-
----
-
-## 🌱 Currently Learning
-
+### Core Computer Science
 - Data Structures & Algorithms
-- Python Programming
-- Git & GitHub
-- Project Development
+- Object-Oriented Programming
+- Problem Solving
+- Software Development Fundamentals
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Current Goals
 
-- GitHub: github.com/manmeetsingh26
-- LinkedIn: (www.linkedin.com/in/manmeet-singh-cu
-- )
+- Build high-quality software development projects
+- Strengthen Data Structures & Algorithms knowledge
+- Improve problem-solving and coding skills
+- Develop a professional technical portfolio
+- Gain practical development experience
+- Prepare for higher studies in Computer Science
 
 ---
 
-⭐ Always learning, building, and improving.
+## 📈 2026 Roadmap
+
+- Complete Student Management System
+- Enhance Expense Tracker with advanced features
+- Build additional C++ and Python projects
+- Solve LeetCode problems consistently
+- Strengthen web development skills
+- Expand GitHub project portfolio
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: manmeet110907@gmail.com
+
+💼 LinkedIn: linkedin.com/in/manmeet-singh-cu
+
+💻 GitHub: github.com/manmeetsingh26
+
+🧩 LeetCode: manmeetsingh26
+
+🌍 Portfolio Website:
+https://manmeetsingh26.github.io/Portfolio-Website/
+
+---
+
+⭐ Always learning, building, and improving one project at a time.
